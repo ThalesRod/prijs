@@ -1,2 +1,5 @@
-# prijs
-Navega pelas frases listadas na tela e as reproduz de forma simples
+# PRIjs ❤
+
+## Sobre
+Feito com HTML/CSS/JavaScript, apenas um protótipo das funcionalidades, a interface dele vai melhorar ao longo do desenvolvimento.
+Código amador, então toda melhoria é bem vinda!
